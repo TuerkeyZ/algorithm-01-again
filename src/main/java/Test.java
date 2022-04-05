@@ -16,7 +16,7 @@ public class Test {
                 if(y==x)
                 {System.out.println(i);
                  System.out.println(j);
-                 System.out.println("bug?");
+                 System.out.println("bug???");
                 }
             }
 
