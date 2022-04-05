@@ -16,7 +16,9 @@ public class Test {
                 if(y==x)
                 {System.out.println(i);
                  System.out.println(j);
-                 System.out.println("-------second-------");}
+                 System.out.println("-------hot-fix-------");
+                 System.out.println("-------合并分支-------");
+                }
             }
 
         }
