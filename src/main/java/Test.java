@@ -18,6 +18,7 @@ public class Test {
                  System.out.println(j);
                  System.out.println("bug???");
                  System.out.println("push-test");
+                 System.out.println("push-test-twice");
                 }
             }
 
